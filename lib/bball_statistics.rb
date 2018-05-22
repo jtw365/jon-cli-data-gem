@@ -1,5 +1,2 @@
-require "bball_statistics/version"
-
-module BballStatistics
-  # Your code goes here...
-end
+require_relative "./bball_statistics/version"
+require_relative "./bball_statistics/cli"
